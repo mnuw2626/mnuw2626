@@ -26,9 +26,8 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <hr>
 <br><br>
-
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/mnuw2626?pet-id=1" width="1000" height="150"/>
+  <img src="https://render.gitanimals.org/lines/mnuw2626?pet-id=1" width="1000" height="300"/>
 </a>
 </div>
 
