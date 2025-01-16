@@ -1,12 +1,14 @@
 ![titel_logo_2_1.gif](image/titel_logo_2_1.gif)
-<div align="center">
 <br><br>
+
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnuw2626&show_icons=true&theme=vue&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnuw2626&hide_border=true&layout=compact)
-<br>
-<br>
 
+</div>
+
+<div align="center">
 <h2>📋 Tech Stack</h2>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -24,11 +26,13 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<hr>
+</div>
 <br><br>
+<hr>
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/mnuw2626?pet-id=1" width="1000" height="200"/>
 </a>
-</div>
+
 
 
