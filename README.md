@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Tech+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Subrayada&weight=700&size=25&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Tech+Stack)](https://git.io/typing-svg)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
