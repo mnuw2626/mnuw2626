@@ -1,15 +1,19 @@
+<div align="center">
+
 ![titel_logo_2_1.gif](image/titel_logo_2_1.gif)
 <br><br>
 
-<div align="center">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnuw2626&show_icons=true&theme=vue&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnuw2626&hide_border=true&layout=compact)
 
 </div>
+<br><br>
 
 <div align="center">
-<p><h2> 📋 Tech Stack </h2></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Tech+Stack)](https://git.io/typing-svg)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
