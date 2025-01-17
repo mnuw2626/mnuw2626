@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<strong style="font-size: 25px;">📋 Tech Stack</strong>
+<strong style="font-size:25px;">📋 Tech Stack</strong>
 <br>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
