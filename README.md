@@ -35,8 +35,9 @@
 </div>
 <br/>
 <hr/>
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/mnuw2626?pet-id=1" width="1000" height="200"/>
+  <img src="https://render.gitanimals.org/farms/mnuw2626"/>
 </a>
 
 
