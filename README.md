@@ -5,8 +5,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnuw2626&show_icons=true&theme=vue&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnuw2626&hide_border=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnuw2626&show_icons=true&theme=vue&hide=contribs,prs&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnuw2626&layout=compact&cache_seconds=1800)
 
 </div>
 
