@@ -11,6 +11,13 @@
 
 </div>
 
+<hr/>
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/mnuw2626"/>
+</a>
+</div>
+
 <br><br>
 
 <div align="center">
@@ -32,14 +39,9 @@
 ![IJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 </div>
 <br/>
-<hr/>
-<div align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/mnuw2626"/>
-</a>
-</div>
+
+
 
 
